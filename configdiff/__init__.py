@@ -1,0 +1,1 @@
+"""Config Diff desktop application."""
